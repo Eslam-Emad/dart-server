@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 4444
+  username: admin
+  password: admin
+  databaseName: home
